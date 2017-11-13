@@ -36,7 +36,7 @@
 #    1 linkoping 58.4531271 15.7461581 Link?ping, Sweden
 
 ## ---- eval=FALSE---------------------------------------------------------
-#  devtools::install_github("tondralok/GoogleAPI/Geocode")
+#  devtools::install_github("Ashraful/GoogleAPI/Geocode")
 
 ## ---- eval=FALSE---------------------------------------------------------
 #  geocode_api(location)

@@ -42,5 +42,5 @@
 #  geocode_api(location)
 
 ## ---- eval=FALSE---------------------------------------------------------
-#  shiny::runGitHub("GoogleAPI", username="tondralok", ref="master",subdir ="Geocode/ShinyApp")
+#  shiny::runGitHub("GoogleAPI", username="Ashraful", ref="master",subdir ="Geocode/ShinyApp")
 

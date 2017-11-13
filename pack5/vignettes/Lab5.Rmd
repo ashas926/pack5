@@ -154,7 +154,7 @@ Location   Latitude  Longitude       FullAdrress
 This package can be installed using below command
 
 ```{r,, eval=FALSE}
-devtools::install_github("tondralok/GoogleAPI/Geocode")
+devtools::install_github("AShraful/GoogleAPI/Geocode")
 ```
 
 To get the geocode data , run
@@ -165,7 +165,7 @@ geocode_api(location)
 
 To download the ShinyApp run the command
 ```{r,, eval=FALSE}
-shiny::runGitHub("GoogleAPI", username="tondralok", ref="master",subdir ="Geocode/ShinyApp")
+shiny::runGitHub("GoogleAPI", username="Ashraful", ref="master",subdir ="Geocode/ShinyApp")
 ```
 
 
@@ -173,7 +173,7 @@ shiny::runGitHub("GoogleAPI", username="tondralok", ref="master",subdir ="Geocod
 
 The study material for this lab given below.
 
-https://github.com/tondralok/GoogleAPI/tree/master/Geocode
+https://github.com/AShraful/GoogleAPI/tree/master/Geocode
 https://developers.google.com/maps/documentation/geocoding/start
 
 
